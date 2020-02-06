@@ -1,0 +1,64 @@
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\RegisterApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\LoginApp\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\Repozytorium\Semestr V\Bazy Danych 2\Login - MiRas - Copy\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
